@@ -36,7 +36,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "apollo-server-core": "^2.19.1",
+    "apollo-server-core": "https://github.com/DevFullStackJS/apollo-server-core.git",
     "apollo-server-express": "^2.19.1",
     "express": "^4.0.0",
     "graphql-subscriptions": "https://github.com/DevFullStackJS/graphql-subscriptions.git",
