@@ -39,7 +39,7 @@
     "apollo-server-core": "^2.19.1",
     "apollo-server-express": "^2.19.1",
     "express": "^4.0.0",
-    "graphql-subscriptions": "^1.0.0",
+    "graphql-subscriptions": "https://github.com/DevFullStackJS/graphql-subscriptions.git",
     "graphql-tools": "^4.0.0"
   },
   "deprecated": false,
